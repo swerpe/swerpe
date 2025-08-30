@@ -1,4 +1,4 @@
-<img align="left" alt="Hello there" width="100%" src="assets/hello_there.png"/>
+<img align="left" alt="Hello there" width="90%" src="assets/hello_there.png"/>
 <img align="left" alt="French student" width="100%" src="assets/french_student.png"/>
 
 <div align=center>
